@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/WialonIPSEmulator.exe
+/UpgradeLog.htm
+/Backup/WialonIPSEmulator.sln
+/.vs
+/Backup/WialonIPSEmulator
+/WialonIPSEmulator/bin/Debug
+/WialonIPSEmulator/obj
