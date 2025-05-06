@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/UpgradeLog.htm
+/.vs/WialonIPSEmulator/CopilotIndices/17.13.444.19527
+/.vs/WialonIPSEmulator/FileContentIndex
+/WialonIPSEmulator/obj/Debug
